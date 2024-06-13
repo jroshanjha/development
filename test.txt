@@ -1,0 +1,24 @@
+git config --global user.name "jroshanjha"
+
+git config --global user.email "jroshan731@gmail.com"
+
+git clone https://openforge.gov.in/plugins/git/samadhan/Samadhan_live.git -b another repo
+
+git config --list  
+
+is --a / Is --all
+
+git log --all ( View Hidden Files in the Commit History: )
+
+git status  ( untracked - new files that git doesn't yet track )
+
+( modified - changed
+ staged - file is ready to be committed 
+ unmodified - unchanged  )
+
+
+
+git add .hidden_file / git add . ( all file )
+
+git commit -m'update' 
+
