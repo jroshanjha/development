@@ -20,3 +20,4 @@ git add .hidden_file / git add . ( all file )
 
 git commit -m'update' 
 
+git push origin repository name - upload local code into the remote repository 
